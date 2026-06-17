@@ -22,4 +22,4 @@ There are no external libraries, downloads, build steps, tracking scripts, or se
 
 The game is built as a simple static page for Safari on older iPads, including iPad Air 1 era devices. It avoids modules, build tools, external fonts, and network-only assets.
 
-Sound and spoken words use browser features. If the iPad blocks audio until the first tap, press the `Hear it` or `Sound on` button once.
+Sound and spoken words use browser features. If the iPad blocks audio until the first tap, press the round `Listen` button or the `Audio on` button once.
